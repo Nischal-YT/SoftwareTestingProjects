@@ -1,6 +1,10 @@
 # SoftwareTestingProjects
 All manual testing projects with documents
 
+https://docs.google.com/presentation/d/1JaKPvhqJ92-LaoX050PNfLVJsdVD07JZhmZXhurtIPU/edit#slide=id.g9843f0ef82_4_10
+
+https://drive.google.com/drive/folders/11eAx342NHP1NGiqD_yQMAqfkZkbIjzNR
+
 
 Project #1 - Testcases for VMO platform - https://app.vwo.com/#/login
 
